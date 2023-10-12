@@ -76,7 +76,7 @@ Using the GitHub Search API with caching is straightforward. Here are the main A
    - **Access Point**: `/swagger/`
 
    For a detailed description of the API endpoints, their expected inputs, and outputs, visit the Swagger documentation page at `/swagger/` on your hosted application.
-   ![image](https://github.com/Mohitphulera/github-search-api/assets/30733552/e1ae0eff-763b-4e01-afb1-765b9ac77901)
+![image](https://github.com/Mohitphulera/github-search-api/assets/30733552/25c037bc-b320-48a8-aeb0-eef50888feec)
 
 
 ## Running Tests
